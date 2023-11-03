@@ -8,7 +8,7 @@ Welcome to PyCraft, your collection of Python scripts designed to simplify your 
 
 ## 📂 Repository Contents
 
-- **[yt_video_downloader.py](yt_video_downloader.py): ** This Scripts is made with the help of a Python Library "pytube". This Script downloads youtube video in HD Quality with just a link provided. **
+- [yt_video_downloader.py](yt_video_downloader.py): ** This Scripts is made with the help of a Python Library "pytube". This Script downloads youtube video in HD Quality with just a link provided. **
 
 (Add and describe more scripts as needed)
 
